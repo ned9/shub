@@ -1,3 +1,4 @@
+click
 docker
 PyYAML
 requests
@@ -5,7 +6,6 @@ retrying
 six
 toml
 
-click==7.0
 tqdm==4.55.1
 scrapinghub>=2.3.1
 
